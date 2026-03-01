@@ -17,7 +17,6 @@ return {
 
   -- moves packages
   { import = "astrocommunity.motion.flash-nvim" },
-  -- { import = "astrocommunity.scrolling.neoscroll-nvim" },
   { import = "astrocommunity.scrolling.nvim-scrollbar" },
   { import = "astrocommunity.editing-support.vim-move" },
 
