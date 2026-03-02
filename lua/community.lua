@@ -23,4 +23,5 @@ return {
   --ui plugins
   { import = "astrocommunity.recipes.heirline-mode-text-statusline" },
   { import = "astrocommunity.colorscheme.tokyodark-nvim" },
+  { import = "astrocommunity.colorscheme.bamboo-nvim" },
 }
